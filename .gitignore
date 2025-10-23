@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Data science project extras
+data/**/*.zip
+data/**/*.tar
+data/**/*.gz
+data/**/*.json
+visualizations/**/*.html
+visualizations/**/*.svg
+*.code-workspace
